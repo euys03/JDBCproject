@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 public class JDBCRun {
 	public static void main(String [] args) {
-		//System.out.println("Hello JDBC!!");
+//		System.out.println("Hello JDBC!!");
 		/*
 		 * 1. 드라이버 등록
 		 * 2. DBMS 연결 생성	(연결된 상태)
